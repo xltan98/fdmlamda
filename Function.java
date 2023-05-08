@@ -1,0 +1,10 @@
+package lambda.Exercises;
+
+public interface Function <T,R>{
+    R apply(T t);
+
+  
+
+    
+    
+}
